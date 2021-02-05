@@ -1,1 +1,1 @@
-# treatment-effect-optimization
+# Treatment effect optimization
