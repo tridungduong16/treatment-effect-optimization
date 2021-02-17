@@ -1,0 +1,13 @@
+#INITIAL SETTINGS
+raw_data_directory: /data/trduong/treatment-effect-optimization/data/raw/{}
+processed_data_directory: /data/trduong/treatment-effect-optimization/data/processed/{}
+model_directory: /data/trduong/treatment-effect-optimization/models/{}
+
+data_stream: stream.csv
+data_pricing: "https://msalicedatapublic.blob.core.windows.net/datasets/Pricing/pricing_sample.csv"
+
+treatment_model_stream: treatment_model_stream.pkl
+outcome_model_stream: outcome_model_stream.pkl
+treatment_model_pricing: treatment_model_pricing.pkl
+outcome_model_pricing: outcome_model_pricing.pkl
+

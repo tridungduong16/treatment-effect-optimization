@@ -54,4 +54,12 @@ Project Organization
 
 --------
 
+References
+==========
+* https://github.com/Ibotta/mr_uplif
+* https://github.com/Causal-Inference-ZeroToAll/causalmlUber
+* https://humboldt-wi.github.io/blog/research/applied_predictive_modeling_19/multiple_treatments_uplift/
+* https://humboldt-wi.github.io/blog/research/applied_predictive_modeling_19/multiple_treatments_uplift/
+* 
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
